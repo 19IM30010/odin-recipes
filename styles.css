@@ -1,0 +1,19 @@
+* {
+    border: 2px solid red;
+}
+button{
+    background-color: black;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: 900;
+}
+
+button:hover{
+    background-color: white;
+    color:black;
+}
